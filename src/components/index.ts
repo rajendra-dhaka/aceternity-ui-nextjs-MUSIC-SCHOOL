@@ -1,0 +1,9 @@
+export { default as Navbar } from "./Navbar";
+export { default as Hero } from "./Hero";
+export { default as FeaturedCourses } from "./FeaturedCourses";
+export { default as WhyChooseUs } from "./WhyChooseUs";
+export { default as TestimonialCards } from "./TestimonialCards";
+export { default as UpcomingWebinars } from "./UpcomingWebinars";
+export { default as Instrctors } from "./Instructors";
+export { default as Footer } from "./Footer";
+export { default as Courses } from "./Courses";
